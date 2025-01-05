@@ -1,0 +1,65 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  width: 100%;
+  height: 3028px;
+  margin: 0 auto;
+  font-family: Formular, sans-serif;
+  background-color: #E5E7EB;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul,
+ol,
+li,
+blockquote {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  color: inherit;
+}
+
+img {
+  width: 100%;
+}
+
+button {
+  font: inherit;
+}
+
+p::selection {
+  background-color: #8B5CF6;
+  color: #F9FAFB;
+}
+
+a::selection {
+  background-color: #8B5CF6;
+  color: #F9FAFB;
+}
+
+h1::selection {
+  background-color: #8B5CF6;
+  color: #F9FAFB;
+}
+
+h2::selection {
+  background-color: #8B5CF6;
+  color: #F9FAFB;
+}
+
+span::selection {
+  background-color: #8B5CF6;
+  color: #F9FAFB;
+}

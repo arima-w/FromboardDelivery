@@ -1,0 +1,17 @@
+@font-face {
+    font-family: Formular;
+    src:
+      url(./Formular.woff2) format('woff2'),
+      url(./Formular.woff) format('woff');
+    font-weight: normal;
+    font-display: swap;
+  }
+  
+  @font-face {
+    font-family: Formular;
+    src:
+      url(./Formular-Bold.woff2) format('woff2'),
+      url(./Formular-Bold.woff) format('woff');
+    font-weight: bold;
+    font-display: swap;
+  }
