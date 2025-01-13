@@ -63,3 +63,13 @@ span::selection {
   background-color: #8B5CF6;
   color: #F9FAFB;
 }
+
+button:hover {
+  background-color: orange;
+  color: #F9FAFB;
+}
+
+button:active {
+  background-color: dimgrey;
+  text-decoration: underline;
+}
